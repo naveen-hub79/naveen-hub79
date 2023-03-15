@@ -14,7 +14,7 @@ In my work, I use a variety of tools and technologies that help me automate proc
 - **CI/CD tools:** Jenkins, GitLab CI/CD,Github actions
 - **Containerization tools:** Docker, Kubernetes
 - **Cloud platforms:** AWS, GCP, Azure
-- **IAAC toos:** Terraform,cloudformation(AWS)
+- **IAAC tools:** Terraform,cloudformation(AWS)
 - **Monitoring tools:** Prometheus, Grafana, ELK
 
 ### What am I currently working on?
