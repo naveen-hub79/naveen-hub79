@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Naveen and i'm a DevOps engineer passionate about working and contributing to the industry. I enjoy using my skills to develop and optimize processes that help teams deliver high-quality software faster.
+My Name is Naveen and I'm a DevOps engineer passionate about working and contributing to the industry. I enjoy using my skills to develop and optimize processes that help teams deliver high-quality software faster.
 
 ### What is DevOps?🔄
 
